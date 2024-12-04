@@ -8,8 +8,10 @@ This project builds a recommendation system for Amazon cell phones using LangCha
 2. **Data Loading and Preprocessing**
 3. **Feature Extraction**
 4. **Recommendation Agents**
-- Feature-Based Agent
-- Price-Based Agent
+  - Feature-Based Agent
+  - Price-Based Agent
+  - Image-Retrieval-Generaion Agent
+  - Summary Agent
 5. **Query Routing**
 6. **Text and Image Embeddings**
 7. **Product Recommendation using Sentence Transformers**
