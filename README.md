@@ -1,7 +1,4 @@
-# Multi AI Agent system or AgenticBot
-
-
-# Product(Cellphone) Recommendation System
+# Product(Cellphone) Recommendation System using AI Agents or AgenticChatBot 
 This project builds a recommendation system for Amazon cell phones using LangChain, OpenAI, and Sentence Transformers. The system leverages product features, price, and image data to provide relevant recommendations to users.
 ## Table of Contents
 1. **Setup and Installation**
@@ -24,7 +21,7 @@ It then imports the required libraries for data processing, machine learning, an
 ## 2. Data Loading and Preprocessing
 - Reads the Amazon cell phone dataset (`DB_Amazon_cellphone_features.csv`).
 - Prepares the data for feature extraction and recommendation.
-- Sets up OpenAI API key and models (GPT-4, GPT-3.5) HuggingFace SentenceTransformers, DALLE, StableDiffusion.
+- Sets up OpenAI API key and models (GPT-4, GPT-3.5) HuggingFace SentenceTransformers, DALL-E, StableDiffusion.
 ## 3. Feature Extraction
 - Defines a function `extract_input_features` to extract key features from product descriptions using OpenAI's chat models.
 - Defines a function `recommend_similar_features` to recommend products with similar features using TF-IDF vectorization and cosine similarity.
