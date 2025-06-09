@@ -1,5 +1,5 @@
-# Product(Cellphone) Recommendation System using AI Agents or AgenticChatBot 
-This project builds a recommendation system for Amazon cell phones using LangChain, OpenAI, and Sentence Transformers. The system leverages product features, price, and image data to provide relevant recommendations to users.
+# Product Recommendation System using AI Agents or AgenticChatBot 
+This project builds a recommendation system for products using LangChain, OpenAI, and Sentence Transformers. The system leverages product features, price, and image data to provide relevant recommendations to users.
 ## Table of Contents
 1. **Setup and Installation**
 2. **Data Loading and Preprocessing**
